@@ -37,7 +37,7 @@ Follow these steps to run the project on your machine:
 
 - **Prerequisites**: Node.js v20.18.3 (Download) npm (comes with Node.js) Git (for cloning the repository)
 
-- **Step 1**: Clone the Repository: git clone https://github.com/mikezhylka/creative-bakery-landing.git
+- **Step 1**: Clone the Repository: git clone https://github.com/mikezhylka/my-bike-landing.git
 
 - **Step 2**: Check Node Version: Ensure you’re using Node.js v20.18.3.
 
